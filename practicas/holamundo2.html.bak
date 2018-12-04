@@ -6,7 +6,7 @@
   </head>
   <body onclick="alert(`quita tu manos´)" style="background-color: red;">
     <p> Hola <strong>Mundo</strong></p>
-    <p>Mejor página del mundo </p>
+  
     <p>
     En informática, un programa Hola mundo es el que imprime el texto «¡Hola, mundo!» en un dispositivo de visualización, en la mayoría de los casos una pantalla de monitor. Este programa suele ser usado como introducción al estudio de un lenguaje de programación, siendo un primer ejercicio típico, y se considera fundamental desde el punto de vista didáctico.
     </p>
