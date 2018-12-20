@@ -3,6 +3,14 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
+
+
+
+
+
+
+
+
 	
   <title>Formulario</title>
   <style>
@@ -96,7 +104,7 @@
 <body>
     <header>
       <h1>BIENVENIDO A NUESTRA WEB!</h1>
-      <picture><img src="../imagenes/logotipo.jpg" alt="logotipo de mi empresa"></picture>
+      <picture><img src="../imagenes/logoempresa.jpg" alt="logotipo de mi empresa"></picture>
     </header>
     <nav> <a href="ejerciciosTema2/nosotros.html">Nosotros</a> <a href="ejerciciosTema2/nuestrosServicio.html">Nuestros Servicios</a> <a href="../index.html">Atrás</a> </nav>
     <section>
@@ -105,7 +113,7 @@
       </header>
       <article>
         <h3>Rellena con sinceridad</h3>
-        <form method)="post" action="https://toledo03.github.io/raiz/ejercicio3/reopinion.html">
+        <form method="get" action="https://toledo03.github.io/raiz - copia/ejerciciostema3/reopinion.html">
           <fieldset>
           <legend>
           Tus datos de contacto
@@ -185,7 +193,7 @@
           </p>
           </fieldset>
           <input name="envio" value="Enviar" type="submit">
-        </form>
+         </form>
       </article>
     </section>
     <footer>
