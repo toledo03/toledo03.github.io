@@ -4,6 +4,9 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
 
+
+
+
 <title>index</title>
  <style>
       body {
@@ -96,12 +99,13 @@
   <body>
     <header>
       <h1> BIENVENIDO A LA WEB DE </h1> 
-      <picture> <img src="imagenes/logoempresa.jpg">Logo Empresa </picture>
+      <picture> <img src="ejerciciostema2/imagenes/logoempresa.jpg">Logo Empresa </picture>
     </header>
     <nav>
-      <a href="ejerciciostema2/nosotros.html">Nosotros</a> 
+      <a href="ejerciciostema2/nosotros.html">Nosotros</a>
       <a href="ejerciciostema2/nuestrosservicios.html">Nuestro Servicio</a>
       <a href="ejerciciostema3/opinion.html">Opinión</a>
+      <a href="ejerciciostema4/nuestrosservicios.html">CSS</a>
     </nav>
     <aside>
       <h2>Conócemos Mejor</h2>

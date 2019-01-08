@@ -14,6 +14,7 @@
 
 
 
+
 	
   <title>Formulario</title>
   <style>
@@ -107,9 +108,9 @@
 <body>
     <header>
       <h1>BIENVENIDO A NUESTRA WEB!</h1>
-      <picture><img src="../imagenes/logoempresa.jpg" alt="logotipo de mi empresa"></picture>
+      <picture><img src="../ejerciciostema2/imagenes/logoempresa.jpg" alt="logotipo de mi empresa"></picture>
     </header>
-    <nav> <a href="ejerciciosTema2/nosotros.html">Nosotros</a> <a href="ejerciciosTema2/nuestrosServicio.html">Nuestros Servicios</a> <a href="../index.html">Atrás</a> </nav>
+    <nav> <a href="../ejerciciostema2/nosotros.html">Nosotros</a> <a href="../ejerciciostema2/nuestrosservicios.html">Nuestros Servicios</a> <a href="../index.html">Atrás</a> </nav>
     <section>
       <header>
         <h1>TU OPINIÓN CUENTA</h1>
@@ -133,19 +134,19 @@
           Indica la edad
           </p>
           <p>
-          <input type="number">            
+          <input type="number" name="edad">            
           </p>
           <p>
            Indica la edad
            </p>
            <p>
-           <input type="range">
+           <input type="range" name="edad">
            </p>
            <p>
            Indica teléfono
            </p>
            <p>
-           <input type="tel">
+           <input type="tel" name="telefono">
             </p>
           <div>
           <p>
@@ -179,7 +180,7 @@
           <p>
           ¿En que grado?
           </p>
-          <select>
+          <select name="grado">
             <optgroup label="Poco">
             <option value="muypoco">Muy Poco</option>
             <option value="poco">Poco</option>
